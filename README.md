@@ -21,3 +21,6 @@ ngrok http http://localhost:8000
 The bot will now be up and running and can be tested using the dialogflow interface.
 
 The dialogflow interface backup can be found in BeerChatBot.zip. This can be imported directly into the dialogflow interface.
+
+The dataset used can be found [here](https://www.kaggle.com/datasets/ehallmar/beers-breweries-and-beer-reviews/data).
+We used a clustering model and a recommendation model trained on this dataset.
